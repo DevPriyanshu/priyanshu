@@ -1,10 +1,7 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
-import { CgGlobe, CgGlobeAlt, CgWebsite } from "react-icons/cg";
 import TrackVisibility from "react-on-screen";
-import { Globe } from "react-bootstrap-icons";
-import { BiGlobe } from "react-icons/bi";
 import { FaGlobe } from "react-icons/fa6";
 
 function ProjectCards(props) {

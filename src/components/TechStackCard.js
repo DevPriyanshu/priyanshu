@@ -14,7 +14,6 @@ import {
   DiSpark,
 } from "react-icons/di";
 import { LiaJava } from "react-icons/lia";
-import TrackVisibility from "react-on-screen";
 import {
   SiIntellijidea,
   SiSpringboot,

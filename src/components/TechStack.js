@@ -20,7 +20,7 @@ export const TechStack = () => {
                   }
                 >
                   <h2>Tech Stack</h2>
-                  <p class="skills-description">
+                  <p className="skills-description">
                     I have a versatile skill set that encompasses both front-end
                     and back-end development, as well as data management. On the
                     front end, I work with HTML, CSS, and JavaScript, utilizing
@@ -30,7 +30,7 @@ export const TechStack = () => {
                     Hibernate to create robust server-side applications and
                     APIs.
                     <br />
-                    <span class="line"></span>
+                    <span className="line"></span>
                     Additionally, I have experience with databases, including
                     SQL and NoSQL options like MongoDB, to effectively manage
                     and retrieve data. I am also familiar with AWS cloud
